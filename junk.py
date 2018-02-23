@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print('hi junk - 1')
+    print('hi junk - ***')

@@ -1,2 +1,2 @@
 if __name__ == '__main__':
-    print('hi junk - ***')
+    print('HEAD - repo-orig')
